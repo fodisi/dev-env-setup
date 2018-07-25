@@ -1,11 +1,12 @@
 # Development Environment - Setup Scripts
 
-Collection os scripts to fast setup/deploy development environments.
+Collection of scripts for fast setup/deployment of application environments.
 
 Examples:
-- Installation of common packages for a specific programming language
-- Installation and configuration of a dev/testing database.
+- Installation of common packages for a specific programming language.
+- Installation and configuration of a database.
+
 
 
 WARNING:
-These scripts MUST NOT be used for deployment in production environment. Most of them do not have configurations related to security, performance and other production environment concerns.
+Most of these scripts MUST NOT be used for deployment in production environments, but for dev, stage and/or test. They were probably created WITHOUT concerns to security, performance, scalability, etc.

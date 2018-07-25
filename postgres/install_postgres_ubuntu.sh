@@ -25,6 +25,7 @@
 # @Description: Installs "PostgreSQL database" and "psycopg2", a PostgreSQL adapter for the Python programming language.
 # @Filename: install_postgres_ubuntu.sh
 # @OS: ubuntu 16.0 or later
+# @env: dev | test
 # @HowTo: Follow the steps below:
         # open your os shell window (command window);
         # cd <directory> ("opens" the <directory> where this file is located);

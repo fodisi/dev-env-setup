@@ -26,6 +26,7 @@
 # @Description: Uninstalls "PostgreSQL database" and "psycopg2", a PostgreSQL adapter for the Python programming language.
 # @Filename: install_postgres_ubuntu.sh
 # @OS: ubuntu 16.0 or later
+# @env: dev | test
 # @Note: Before you execute this file, replace the identifiers using your favorite test editor:
         # <db_name> by the database name;
         # <admin_role> by the database admin/owner user;
